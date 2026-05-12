@@ -69,16 +69,6 @@
 
 ---
 
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
 # 🏆 Achievements
 
 🏅 Built real-world ERP & LMS systems  
@@ -105,16 +95,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
 # ⚡ Developer Quote
 
 <div align="center">
@@ -127,7 +107,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Dev-Sameer-Hub&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
